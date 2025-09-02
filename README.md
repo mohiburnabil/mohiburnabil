@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-%E2%9C%94%EF%B8%8F-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Natural%20Language%20Processing-%F0%9F%93%9A-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Researcher-%F0%9F%93%9D%EF%B8%8F-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-%E2%9C%A8-lightgrey?style=for-the-badge" />
 </p>
 
 ---
@@ -13,7 +12,7 @@
 
 🎓 **Undergrad in CSE from North South University, Bangladesh**  
 🧠 **AI & NLP Enthusiast** working on low-resource language modeling  
-📚 **Published Researcher** | Lead contributor to 🇧🇩 **BanglaEmbed**  
+📚 **Published Researcher**
 🔬 Focused on: Machine Learning, Transformers, Multimodal AI, Bangla NLP  
 🛠️ Building tools and models for meaningful societal impact  
 
@@ -25,36 +24,6 @@
 - 🖼️ Multimodal learning for meme and hate speech detection  
 - ⚡ Efficient model training: pruning, quantization, distillation
 
----
-
-## 🚀 Projects
-
-### 🔤 [BanglaEmbed](https://www.researchgate.net/publication/386111161_BanglaEmbed_Efficient_Sentence_Embedding_Models_for_a_Low-Resource_Language_Using_Cross-Lingual_Distillation_Techniques)
-> 💡 Efficient sentence embedding models for Bangla using cross-lingual distillation
-
-- ✅ Trained using XLM-RoBERTa + LaBSE
-- 📊 Evaluated on paraphrase detection, STS tasks
-- 📝 Published in 2024
-
----
-
-### 🧳 [Travel-Management-System](https://github.com/mohiburnabil/Travel-Management-System)
-> Full-stack travel booking app with Python backend and HTML/CSS frontend
-
-- 🛠️ Python, Flask/Django-style structure
-- 🖼️ Clean modular architecture (frontend + models.py)
-- 📂 Includes use cases, schema, and documentation
-
----
-
-### 🤖 [Multimodal Meme Classifier (WIP)]
-> Multimodal transformer model for meme hate speech detection (text + image)
-
-- 🧩 Based on Facebook Hateful Memes / HarM / MUTE / Met-Meme datasets
-- 📷 CLIP, VisualBERT, LXMERT baseline models
-- ⚙️ Training with Vision-Language fusion and Cross-Attention modules
-
----
 
 ## 🛠️ Tech Stack
 
@@ -70,13 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mohiburnabil&show_icons=true&theme=github_dark" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mohiburnabil&theme=github-dark&hide_border=false" width="49%"/>
 </p>
-
----
-
-## 📚 Publications & Talks
-
-- 📄 **BanglaEmbed: Efficient Sentence Embedding Models for a Low-Resource Language using Cross-Lingual Distillation**  
-  [📘 ResearchGate](https://www.researchgate.net/publication/386111161_BanglaEmbed_Efficient_Sentence_Embedding_Models_for_a_Low-Resource_Language_Using_Cross-Lingual_Distillation_Techniques)
 
 ---
 
