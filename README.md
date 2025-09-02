@@ -24,7 +24,7 @@
 - 🖼️ Multimodal learning for meme and hate speech detection  
 - ⚡ Efficient model training: pruning, quantization, distillation
 
-
+---
 ## 🛠️ Tech Stack
 
 | 💻 Language | 🧠 ML/DL | 📦 Tools | 🌐 Web | 🧮 Database |
@@ -33,14 +33,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohiburnabil&show_icons=true&theme=github_dark" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohiburnabil&theme=github-dark&hide_border=false" width="49%"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
