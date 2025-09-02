@@ -29,7 +29,7 @@
 
 | 💻 Language | 🧠 ML/DL | 📦 Tools | 🌐 Web | 🧮 Database |
 |------------|---------|----------|--------|-------------|
-| Python 🐍   | PyTorch ⚙️, Transformers 🤗 | Git, Docker, Linux 🐧 | HTML, CSS, Flask 🌍 | SQLite, MySQL |
+| Python 🐍   | PyTorch ⚙️, Transformers 🤗 | Git, Docker, Linux 🐧 | FastAPI 🌍 | SQLite, MySQL |
 
 ---
 
