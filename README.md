@@ -12,17 +12,8 @@
 
 🎓 **Undergrad in CSE from North South University, Bangladesh**  
 🧠 **AI & NLP Enthusiast** working on low-resource language modeling  
-📚 **Published Researcher**
-🔬 Focused on: Machine Learning, Transformers, Multimodal AI, Bangla NLP  
-🛠️ Building tools and models for meaningful societal impact  
-
----
-
-## 🔭 Current Interests
-- 🧠 Transformer architectures for NLP & Vision  
-- 🧾 Cross-lingual embedding for low-resource languages  
-- 🖼️ Multimodal learning for meme and hate speech detection  
-- ⚡ Efficient model training: pruning, quantization, distillation
+🔬 **Research Focus:** Multimodal AI, Bangla NLP, Low-Resource Languages, AI in Healthcare  
+🛠️ **Research Goal:** Building AI tools and models for meaningful societal impact  
 
 ---
 ## 🛠️ Tech Stack
@@ -38,7 +29,7 @@
 
 <p align="left">
   <a href="https://github.com/mohiburnabil" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mohiburnabil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-mohibur-rahman-nabil-02b0301b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mohiburnabil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
