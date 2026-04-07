@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohibur Rahman Nabil 👋</h1>
+<h1 align="center">Hi there, I'm Md Mohibur Rahman Nabil 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-%E2%9C%94%EF%B8%8F-blue?style=for-the-badge" />
@@ -30,7 +30,7 @@
 <p align="left">
   <a href="https://github.com/mohiburnabil" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/md-mohibur-rahman-nabil-02b0301b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mohiburnabil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:mohibur389@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
