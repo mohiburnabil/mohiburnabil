@@ -10,7 +10,7 @@
 
 ## 💡 About Me
 
-🎓 **Maser of Computer Science (Thesis) from University of New Brunswick, Fredericton, New Brunswick, Canada** 
+🎓 **Maser of Computer Science (Thesis) from University of New Brunswick, Fredericton, New Brunswick, Canada**
 🎓 **Completed undergrad in CSE from North South University, Dhaka, Bangladesh**  
 🧠 **AI & NLP Enthusiast** working on low-resource language modeling  
 🔬 **Research Focus:** Multimodal AI, Bangla NLP, Low-Resource Languages, AI in Healthcare  
