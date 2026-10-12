@@ -10,7 +10,8 @@
 
 ## 💡 About Me
 
-🎓 **Undergrad in CSE from North South University, Bangladesh**  
+🎓 **Maser of Computer Science (Thesis) from University of New Brunswick, Fredericton, New Brunswick, Canada** 
+🎓 **Completed undergrad in CSE from North South University, Dhaka, Bangladesh**  
 🧠 **AI & NLP Enthusiast** working on low-resource language modeling  
 🔬 **Research Focus:** Multimodal AI, Bangla NLP, Low-Resource Languages, AI in Healthcare  
 🛠️ **Research Goal:** Building AI tools and models for meaningful societal impact  
